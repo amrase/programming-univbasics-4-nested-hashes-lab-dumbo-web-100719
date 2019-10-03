@@ -134,6 +134,7 @@ def adding_to_dennis
         }
      }
      dennis_new_value="Assembly"
-     programmer_hash[:dennis_ritchie][:languages][1] 
+     programmer_hash[:dennis_ritchie][:languages][1] = dennis_new_value
+     programmer_hash
 
 end
